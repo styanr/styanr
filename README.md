@@ -1,1 +1,1 @@
-Student at LPNU
+💻Software Engineering student at LPNU
